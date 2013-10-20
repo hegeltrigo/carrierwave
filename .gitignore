@@ -13,3 +13,5 @@ spec/test.log
 .rvmrc
 .bundle
 Gemfile.lock
+# Ignore idea files
+.idea/
